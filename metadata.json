@@ -1,0 +1,6 @@
+{
+  "name": "GeoSPT-Geotécnico & Sondagem SPT",
+  "description": "Automação e geração inteligente de perfil geológico, cálculo automático de SPT (NBR 6484), hachuras geotécnicas e relatórios técnicos com IA.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
